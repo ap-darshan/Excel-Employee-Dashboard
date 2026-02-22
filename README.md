@@ -1,2 +1,16 @@
-# Excel-Employee-Dashboard
-Built an interactive Employee Performance Dashboard in Excel using data cleaning, logical functions, pivot tables, and slicers.
+# 📊 Employee Performance Dashboard (Excel Project)
+
+## 🔹 Project Overview
+
+This project analyzes employee performance using Excel.
+
+## 🔹 Features
+
+* Data Cleaning
+* Logical Functions
+* Pivot Tables
+* Interactive Dashboard with slicers
+
+## 🔹 Tools Used
+
+* Microsoft Excel

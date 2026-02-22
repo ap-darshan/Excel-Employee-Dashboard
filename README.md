@@ -14,3 +14,6 @@ This project analyzes employee performance using Excel.
 ## 🔹 Tools Used
 
 * Microsoft Excel
+## 📸 Dashboard Preview
+
+![Dashboard](Screenshot 2026-02-22 225119.png)
